@@ -1,0 +1,100 @@
+.blog{
+    font-family: sans-serif;
+}
+
+.blog .star{
+    display: flex;
+    margin-top: 80px;
+}
+.star p{
+    color: purple;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.star button{
+    background-color:rgb(153, 87, 246);
+    padding: 22px 20px 14px 25px ;
+    border-radius: 10px;
+    border: none;
+    margin-left: 900px;
+}
+.row{
+    font-family: sans-serif;
+}
+.row h1{
+    margin-left: 150px;
+}
+.row p{
+    margin-left: 150px;
+    color: gray;
+    margin-top: 20px;
+}
+
+.blogcard{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.cards{
+    margin-left: 100px;
+}
+.blogcard .cards img{
+    height: 300px;
+    width: 300px;
+    
+}
+.cards .lists p{
+    color: gray;
+    /* margin-left: 25px; */
+    margin-top: 8px;
+    margin-top: 10px;
+
+}
+
+.data{
+    /* display: flex; */
+}
+.cards .data img{
+    height: 40px;
+    width: 40px;
+}
+.data p{
+    color: gray;
+}
+
+
+.trial{
+    margin-top: 80px;
+    font-family: sans-serif;
+}
+.trial h1{
+    margin-left: 500px;
+}
+.trial p{
+    color: gray;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+
+.but{
+    display: flex;
+    font-family: sans-serif;
+}
+.but #b1 {
+    margin-left: 500px;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 15px 20px 14px 25px ;
+    
+}
+.but #b2{
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 15px 20px 14px 25px ;
+    background-color: rgb(153, 87, 246);;
+    border: none;
+    margin-left: 20px;
+    color: white;
+}

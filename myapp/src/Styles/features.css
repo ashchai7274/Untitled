@@ -1,0 +1,85 @@
+.main{
+    font-family: sans-serif;
+}
+
+.main h4{
+    font-weight: bold;
+    margin-left: 600px;
+    margin-top: 70px;
+}
+.main .par{
+    margin-left: 400px;
+}
+.main .tex{
+    color: gray;
+    font-size:20px;
+    text-align: center;
+    margin-top: 10px;;
+}
+.cards{
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+.card{
+    height: 300px;
+    width: 30%;
+    /* border: solid 1px black; */
+    margin-left: 10px;
+    font-family: sans-serif;
+    
+}
+.card img{
+    height: 30px;
+    width: 30px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.card .list h2{
+    margin-top:40px;
+    margin-left: 100px;
+}
+.card .list p{
+    color: gray;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+
+
+.name{
+    display: flex;
+    font-family: sans-serif;
+}
+.name img{
+    height:50px;
+    width: 50px;
+    margin-left: 550px;
+}
+.item{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.i img{
+    height:50px;
+    width: 50px;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.i h4{
+    font-size:medium;
+    margin-left: 590px;
+    margin-top: 15px;
+
+}
+.i p{
+    margin-left: 550px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: gray;
+
+}

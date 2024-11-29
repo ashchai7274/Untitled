@@ -1,0 +1,25 @@
+.foot{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.foot .data ul li{
+    list-style: none;
+    margin-top: 10px;
+}
+.foot{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icon{
+    margin-top: 50px;
+}
+.icon p{
+    color: gray;
+    margin-left: 1000px;
+}
+.icon .logo{
+    margin-left: 20px;
+    
+}
